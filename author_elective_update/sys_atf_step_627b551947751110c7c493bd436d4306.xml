@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Validate that record '{{Step 2: Record Insert.Record}}' does not exist</description>
+        <display_name>Record Validation</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Record Validation">1f39a288df60220062fe6c7a4df2639d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:36:10</sys_created_on>
+        <sys_id>627b551947751110c7c493bd436d4306</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Record Validation</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_627b551947751110c7c493bd436d4306</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:42:44</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <test display_value="When needed - Past">793bd99547751110c7c493bd436d437e</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=627b551947751110c7c493bd436d4306"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>627b551947751110c7c493bd436d4306</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:36:10</sys_created_on>
+        <sys_id>227b551947751110c7c493bd436d4307</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:42:44</sys_updated_on>
+        <value>record_not_found</value>
+        <variable display_value="Assert type">67400008676003007ba405225685efa4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>627b551947751110c7c493bd436d4306</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:36:10</sys_created_on>
+        <sys_id>2e7b551947751110c7c493bd436d4307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:36:10</sys_updated_on>
+        <value/>
+        <variable display_value="Field values">ff6e125353a0220002c6435723dc3442</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>627b551947751110c7c493bd436d4306</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:36:10</sys_created_on>
+        <sys_id>6a7b551947751110c7c493bd436d4307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:36:10</sys_updated_on>
+        <value>x_58872_needit_needit</value>
+        <variable display_value="Table">6aad5a575360220002c6435723dc34b0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>627b551947751110c7c493bd436d4306</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:36:10</sys_created_on>
+        <sys_id>a67b551947751110c7c493bd436d4307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:36:10</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Enforce security">cbddfa135320220002c6435723dc3415</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>627b551947751110c7c493bd436d4306</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:36:10</sys_created_on>
+        <sys_id>e27b551947751110c7c493bd436d4307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:36:10</sys_updated_on>
+        <value/>
+        <variable display_value="Record">52ed1e5b5360220002c6435723dc3421</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=627b551947751110c7c493bd436d4306"/>
+    <sys_element_mapping action="DELETE">
+        <field>record_id</field>
+        <id>627b551947751110c7c493bd436d4306</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:38:24</sys_created_on>
+        <sys_id>9ffb5d1947751110c7c493bd436d43dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:38:24</sys_updated_on>
+        <table>var__m_atf_input_variable_1f39a288df60220062fe6c7a4df2639d</table>
+        <value>{{step['267b551947751110c7c493bd436d4301'].record_id}}</value>
+    </sys_element_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cab1b82edb857b8407072f17d49619d3</instance_id>
+        <instance_name>dev84158</instance_name>
+        <name>sys_atf_step_627b551947751110c7c493bd436d4306</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Validate that record '{{Step 2: Record Insert.Record}}' does not exist</description><display_name>Record Validation</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>3</order><snapshot/><step_config display_value="Record Validation">1f39a288df60220062fe6c7a4df2639d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-06 19:36:10</sys_created_on><sys_id>627b551947751110c7c493bd436d4306</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Record Validation</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_627b551947751110c7c493bd436d4306</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-06 19:42:44</sys_updated_on><table>x_58872_needit_needit</table><test display_value="When needed - Past">793bd99547751110c7c493bd436d437e</test><timeout>1970-01-01 00:00:05</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=627b551947751110c7c493bd436d4306"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>627b551947751110c7c493bd436d4306</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-06 19:36:10</sys_created_on><sys_id>227b551947751110c7c493bd436d4307</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-06 19:42:44</sys_updated_on><value>record_not_found</value><variable display_value="Assert type">67400008676003007ba405225685efa4</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>627b551947751110c7c493bd436d4306</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-06 19:36:10</sys_created_on><sys_id>2e7b551947751110c7c493bd436d4307</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-06 19:36:10</sys_updated_on><value/><variable display_value="Field values">ff6e125353a0220002c6435723dc3442</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>627b551947751110c7c493bd436d4306</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-06 19:36:10</sys_created_on><sys_id>6a7b551947751110c7c493bd436d4307</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-06 19:36:10</sys_updated_on><value>x_58872_needit_needit</value><variable display_value="Table">6aad5a575360220002c6435723dc34b0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>627b551947751110c7c493bd436d4306</document_key><order>10</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-06 19:36:10</sys_created_on><sys_id>a67b551947751110c7c493bd436d4307</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-06 19:36:10</sys_updated_on><value>1</value><variable display_value="Enforce security">cbddfa135320220002c6435723dc3415</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>627b551947751110c7c493bd436d4306</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-06 19:36:10</sys_created_on><sys_id>e27b551947751110c7c493bd436d4307</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-06 19:36:10</sys_updated_on><value/><variable display_value="Record">52ed1e5b5360220002c6435723dc3421</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=627b551947751110c7c493bd436d4306"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>record_id</field><id>627b551947751110c7c493bd436d4306</id><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-06 19:38:24</sys_created_on><sys_id>9ffb5d1947751110c7c493bd436d43dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-06 19:38:24</sys_updated_on><table>var__m_atf_input_variable_1f39a288df60220062fe6c7a4df2639d</table><value>{{step['267b551947751110c7c493bd436d4301'].record_id}}</value></sys_element_mapping></record_update>]]></payload>
+        <payload_hash>-761828470</payload_hash>
+        <record_name>Record Validation</record_name>
+        <reverted_from/>
+        <source>23b8ae4147a51110c7c493bd436d43bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:42:44</sys_created_on>
+        <sys_id>76fc919947751110c7c493bd436d43ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183145392c40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:42:44</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>7efc9199147511105ed51ba4cb0a76ed</update_guid>
+        <update_guid_history>7efc9199147511105ed51ba4cb0a76ed:-761828470,f4cc9d5950751110c2056aa3835d03d5:1475682671,035c9d19ea751110bb0b97854e6b4e3f:-761828470,13fb5d19e4751110f44ca2141acbaadf:-1678156495,2e7b5519747511105344fd63dd194309:-183439410</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 19:45:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>019738b477ba43cc8d3e38c8d835c4e4</sys_id>
+        <sys_metadata>627b551947751110c7c493bd436d4306</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Validation</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_627b551947751110c7c493bd436d4306</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_627b551947751110c7c493bd436d4306">76fc919947751110c7c493bd436d43ee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 19:45:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
